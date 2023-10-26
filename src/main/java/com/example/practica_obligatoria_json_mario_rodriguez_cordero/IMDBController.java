@@ -44,9 +44,6 @@ public class IMDBController {
                 Pelicula p = new Pelicula();
                 p = (Pelicula) peliculas.get(i);
 
-                System.out.println(p);
-
-
             }
 
         } catch (Exception e){
